@@ -1,5 +1,14 @@
-### Olá!
+## Hello Dev's! 👋
+### Meu nome é Isaac, sejam bem-vindo ao meu GitHub!
 
+#### Estatísticas:
+<div>
+<a href="https://github.com/IsaacF-code">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacF-code&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=IsaacF-code&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=IsaacF-code&amp;theme=radical">
+</a>
+</div>
 <!--
 **IsaacF-code/IsaacF-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,65 @@
 ## Hello Dev's! 👋
 ### Meu nome é Isaac, sejam bem-vindo ao meu GitHub!
 
+### Sobre Mim
+  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+  - ⚡ Gosto de tecnologia, músicas, jogos, animes, tocar teclado. 
+  - 🎓 Estudando **Sistemas de Informação** no <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>
+  - 🌱 Atualmente, estou me aprofundando em Typescript
+
+#### Minhas Skills
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML" Alt="Logo do HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS" Alt="Logo do CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" Alt="Logo do Javascript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href="https://www.typescriptlang.org/pt/" title="Typescript" Alt="Logo do Typescript">
+  <img src="https://skillicons.dev/icons?i=ts"/>
+</a>
+<a href="https://pt-br.react.dev" title="React" Alt="Logo do React">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href="https://angular.io/" title="Angular" Alt="Logo do Angular">
+  <img src="https://skillicons.dev/icons?i=angular"/>
+</a>
+<a href="https://www.java.com/pt-BR/" title="Java" Alt="Logo do Java">
+  <img src="https://skillicons.dev/icons?i=java"/>
+</a>
+</div>
+
+##
+
+#### Ferramentas que uso:
+<div>
+<a href="https://code.visualstudio.com" title="Visual Studio Code" Alt="Logo do Visual Studio">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+<a href="https://github.com/pt" title="GitHub" Alt="Logo do GitHub">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://git-scm.com" title="Git" Alt="Logo do Git">
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+<a href="https://vercel.com" title="Vercel" Alt="Logo do Vercel">
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+<a href="https://www.figma.com" title="Figma" Alt="Logo do Figma">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+</div>
+
+#### Onde me encontrar
+
+<div>
+  <a href="https://www.linkedin.com/in/saac-f-481106118" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+  <a href ="mailto:isaacfreires@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+
 #### Estatísticas:
 <div>
 <a href="https://github.com/IsaacF-code">

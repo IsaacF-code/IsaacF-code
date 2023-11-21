@@ -1,11 +1,13 @@
-## Hello Dev's! 👋
+## Oie Devs! 👋
 ### Meu nome é Isaac, sejam bem-vindo ao meu GitHub!
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### Sobre Mim
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
   - ⚡ Gosto de tecnologia, músicas, jogos, animes, tocar teclado. 
-  - 🎓 Estudando **Sistemas de Informação** no <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>
-  - 🌱 Atualmente, estou me aprofundando em Typescript
+  - 🎓 Estudando **Sistemas de Informação** em <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>
+  - 🌱 Atualmente, estou me aprofundando em React e Typescript
 
 #### Minhas Skills
 <div>
@@ -56,8 +58,9 @@
 #### Onde me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/saac-f-481106118" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+  <a href="https://www.linkedin.com/in/isaac-f-481106118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
   <a href ="mailto:isaacfreires@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.instagram.com/isaacfreires/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 #### Estatísticas:

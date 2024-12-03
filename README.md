@@ -7,7 +7,7 @@
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
   - ⚡ Gosto de tecnologia, músicas, jogos, animes, tocar teclado. 
   - 🎓 Estudando **Sistemas de Informação** em <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>.
-  - 🌱 Atualmente, estou me aprofundando em React e Typescript
+  - 🌱 Atualmente, estou me aprofundando em React e Typescript.
 
 #### Minhas Skills
 <div>

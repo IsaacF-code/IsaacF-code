@@ -5,7 +5,7 @@
 
 ### Sobre Mim
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-  - ⚡ Gosto de tecnologia, músicas, ler, jogos, animes, tocar teclado. 
+  - ⚡ Gosto de tecnologia, músicas, ler, jogos, animes e tocar teclado. 
   - 🎓 Estudando **Sistemas de Informação** em <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>.
   - 🌱 Atualmente, estou me aprofundando em React e Typescript.
 

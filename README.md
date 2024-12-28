@@ -9,7 +9,7 @@
   - 🎓 Estudando **Sistemas de Informação** em <a href="https://ifce.edu.br/cedro">IFCE - Campus Cedro</a>.
   - 🌱 Atualmente, estou me aprofundando em React e Typescript.
 
-#### Minhas Skills
+#### Minhas Skills:
 <div>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML" Alt="Logo do HTML">
   <img src="https://skillicons.dev/icons?i=html"/>
